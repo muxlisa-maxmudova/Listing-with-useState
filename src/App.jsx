@@ -1,10 +1,9 @@
-import UserGreeting from "./Components/UserGreeting.jsx";
-import TodoList from "./Components/TodoList.jsx";
+import Card from "./Components/Card.jsx";
+
 const App = () => {
     return (
         <div>
-            <UserGreeting/>
-            <TodoList/>
+            <Card title={'Lipstick'} description={'Chanel'}/>
         </div>
 
     )
