@@ -1,8 +1,7 @@
-import WithMassive from "./Practice/WithMassive.jsx";
 const App = () => {
     return (
         <div>
-           <WithMassive/>
+            Hello React!
         </div>
     )
 }
