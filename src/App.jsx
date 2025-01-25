@@ -1,9 +1,9 @@
-import Card from "./Components/Card.jsx";
+import LoginControl from "./Components/ConditionalRendering.jsx";
 
 const App = () => {
     return (
         <div>
-            <Card title={'Lipstick'} description={'Chanel'}/>
+         <LoginControl/>
         </div>
 
     )
