@@ -1,8 +1,6 @@
 const App = () => {
     return (
-        <div>
-            Hello React!
-        </div>
+        <div>App</div>
     )
 }
 export default App
