@@ -1,9 +1,9 @@
-import LoginControl from "./Components/ConditionalRendering.jsx";
+import DOM from "./UseRef Hook/DOM.jsx";
 
 const App = () => {
     return (
         <div>
-         <LoginControl/>
+            <DOM/>
         </div>
 
     )
